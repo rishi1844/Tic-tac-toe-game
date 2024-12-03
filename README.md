@@ -2,10 +2,10 @@
 A classic implementation of the Tic Tac Toe game, where two players take turns to mark spaces in a 3×3 grid. The first player to align three of their marks horizontally, vertically, or diagonally wins the game! 
 
 # Features
-  .Two-player mode: Play against a friend locally.
-  .AI mode (optional): Challenge the computer (if implemented).
-  .Real-time winner detection.
-  .Simple and clean interface for seamless gameplay.
+  Two-player mode: Play against a friend locally.
+  AI mode (optional): Challenge the computer (if implemented).
+  Real-time winner detection.
+  Simple and clean interface for seamless gameplay.
   
 # Game Rules
 1. The game is played on a 3x3 grid.
