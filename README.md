@@ -1,3 +1,14 @@
-Tic Tac Toe is a classic two-player game where players take turns marking spaces on a 3x3 grid. The objective is to align three of their marks (either X or O) horizontally, vertically, or diagonally before their opponent.
+# Tic Tac Toe Game [HTML, CSS, JS]
+A classic implementation of the Tic Tac Toe game, where two players take turns to mark spaces in a 3×3 grid. The first player to align three of their marks horizontally, vertically, or diagonally wins the game! 
 
-This implementation provides a simple and interactive way to play the game through a user-friendly interface or console.
+# Features
+  .Two-player mode: Play against a friend locally.
+  .AI mode (optional): Challenge the computer (if implemented).
+  .Real-time winner detection.
+  .Simple and clean interface for seamless gameplay.
+  
+# Game Rules
+1. The game is played on a 3x3 grid.
+2. Two players take turns marking their symbol (X or O) in an empty cell.
+3. The first player to align three symbols in a row (horizontally, vertically, or diagonally) wins the game.
+4. If all cells are filled and no player has won, the game ends in a draw.
